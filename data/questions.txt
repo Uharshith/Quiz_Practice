@@ -1,0 +1,5 @@
+1|what is the size of int ?|12|8|9|5|2
+2|what is the size of double?|2|3|4|5|2
+3|who can compile the java byte code?|jvm|jit|interpreter|compiler|1
+4|which keyword is used for constructor chaining ?|this|new|final|staic|1
+5|which keyword can be used for achieving abstraction|?|abstracth|implments|void|2
